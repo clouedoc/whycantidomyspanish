@@ -32,3 +32,12 @@ Les résultats de l'expérience sont disponibles dans `paridad_words.txt` et `tu
 # Les tableaux
 
 A uploader via l'UI GitHub
+
+### Paridad
+
+[paridad](https://raw.githubusercontent.com/sheldoncoupeheure/whycantidomyspanish/master/paridad_table.jpg)
+
+### Turismo
+
+[turismo](https://raw.githubusercontent.com/sheldoncoupeheure/whycantidomyspanish/master/turismo_table.jpg)
+
