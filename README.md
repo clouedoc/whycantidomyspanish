@@ -12,7 +12,7 @@ Ce projet a entièrement été réalisé sur une installation fraiche d'ubuntu a
 Installez la librairie `pyenchant` ainsi que son module Python:
 
 ```bash
-apt install pyenchat
+apt install pyenchant
 pip3 install pyenchant
 ```
 
@@ -31,13 +31,11 @@ Les résultats de l'expérience sont disponibles dans `paridad_words.txt` et `tu
 
 # Les tableaux
 
-A uploader via l'UI GitHub
-
 ### Paridad
 
-[paridad](https://raw.githubusercontent.com/sheldoncoupeheure/whycantidomyspanish/master/paridad_table.jpg)
+![paridad](https://raw.githubusercontent.com/sheldoncoupeheure/whycantidomyspanish/master/paridad_table.jpg)
 
 ### Turismo
 
-[turismo](https://raw.githubusercontent.com/sheldoncoupeheure/whycantidomyspanish/master/turismo_table.jpg)
+![turismo](https://raw.githubusercontent.com/sheldoncoupeheure/whycantidomyspanish/master/turismo_table.jpg)
 
